@@ -1,0 +1,7 @@
+root://eoscms//eos/cms/store/user/mshi/amumu_test_01/NMSSM_a5p5_amumu_1.root
+root://eoscms//eos/cms/store/user/mshi/amumu_test_01/NMSSM_a5p5_amumu_2.root
+root://eoscms//eos/cms/store/user/mshi/amumu_test_01/NMSSM_a5p5_amumu_3.root
+root://eoscms//eos/cms/store/user/mshi/amumu_test_01/NMSSM_a5p5_amumu_5.root
+root://eoscms//eos/cms/store/user/mshi/amumu_test_01/NMSSM_a5p5_amumu_6.root
+root://eoscms//eos/cms/store/user/mshi/amumu_test_01/NMSSM_a5p5_amumu_7.root
+
